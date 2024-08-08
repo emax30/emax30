@@ -1,11 +1,11 @@
 # 👋 Hi, I’m Max
-🚀 Data Enthusiast
+### 🚀 Data Enthusiast with a STEM background 🧪
 📍Montreal, Canada
 📧 Email: [m.epifanov30](mailto:m.epifanov30@gmail.com)
 🔗 LinkedIn: [max-epifanov](https://www.linkedin.com/in/max-epifanov/) 
 
 - 👀 I’m interested in board games, soccer and volleyball.
-- 🌱 I’m currently learning JavaScript and German.
+- 🌱 I’m always eager to learn new things (currently learning JavaScript and German).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I lived in Mongolia for 7 years when I was a kid. 
 
