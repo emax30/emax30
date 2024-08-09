@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Max
-### 🚀 Data Enthusiast with a STEM background 🧪
+## 🚀 Data Enthusiast with a STEM background 🧪
 📍Montreal, Canada
 📧 Email: [m.epifanov30](mailto:m.epifanov30@gmail.com)
 🔗 LinkedIn: [max-epifanov](https://www.linkedin.com/in/max-epifanov/) 
